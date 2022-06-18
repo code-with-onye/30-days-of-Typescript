@@ -5,7 +5,7 @@
 
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Getting Started](./[readMe.md](https://github.com/code-with-onye/30-days-of-Typescript-/blob/Master/README.md))                                                             |
+| 01    |                                                             [Getting Started](./blob/Master/README.md)                                                             |
 | 02    |                                               [Basic Types](./02_Day_Data_types/02_day_data_types.md)                                                |
 | 03    |                             [Control Flow Statements](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
 | 04    |                                            [Functions](./04_Day_Conditionals/04_day_conditionals.md)                                             |

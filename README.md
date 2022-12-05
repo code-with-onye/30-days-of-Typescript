@@ -4,7 +4,7 @@
 
 | # Day |                                              Topics                                              |
 | ----- | :----------------------------------------------------------------------------------------------: |
-| 01    |                                  [Getting Started](./Readme.md)                                  |
+| 01    |                                  [Getting Started](./README.md)                                  |
 | 02    |                     [Basic Types](./02_Day_Data_types/02_Day_Basic_Type.md)                      |
 | 03    |    [Control Flow Statements](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)     |
 | 04    |                    [Functions](./04_Day_Conditionals/04_day_conditionals.md)                     |

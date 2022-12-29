@@ -18,3 +18,22 @@
 | 12    |         [Node.js Typescript](./12_Day_Regular_expressions/12_day_regular_expressions.md)         |
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
+
+---
+## Contribute
+
+
+
+## 🛡️ License
+
+LinkFree is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 💪 Thanks to all Contributors
+
+Thanks a lot for spending your time helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=EddieHubCommunity/LinkFree)](https://github.com/code-with-onye/30-days-of-Typescript/graphs/contributors)
+
+## 🙏 Support
+
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️

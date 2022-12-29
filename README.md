@@ -30,7 +30,7 @@ LinkFree is licensed under the MIT License - see the [LICENSE](LICENSE) file for
 
 ## 💪 Thanks to all Contributors
 
-Thanks a lot for spending your time helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+Thanks a lot for spending your time helping 30-days-of-Typescript grow. Thanks a lot! Keep rocking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=code-with-onye/30-days-of-Typescript)](https://github.com/code-with-onye/30-days-of-Typescript/graphs/contributors)
 

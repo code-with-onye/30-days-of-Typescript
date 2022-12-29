@@ -33,7 +33,7 @@ kindly [Contribute](https://github.com/code-with-onye/30-days-of-Typescript/blob
 
 Thanks a lot for spending your time helping 30-days-of-Typescript grow. Thanks a lot! Keep rocking 🍻
 
-[Contributors](https://contrib.rocks/image?repo=code-with-onye/30-days-of-Typescript)](https://github.com/code-with-onye/30-days-of-Typescript/graphs/contributors)
+[![Contributors]](https://contrib.rocks/image?repo=code-with-onye/30-days-of-Typescript)](https://github.com/code-with-onye/30-days-of-Typescript/graphs/contributors)
 
 ## 🙏 Support
 

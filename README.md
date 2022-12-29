@@ -22,11 +22,12 @@
 ---
 ## Contribute
 
-
+I think that learning together and sharing our knowledge with others is an effective way to learn new things.
+kindly [![Contribute](https://github.com/code-with-onye/30-days-of-Typescript/blob/main/CONTRIBUTING.md)](https://github.com/code-with-onye/30-days-of-Typescript/blob/main/CONTRIBUTING.md)
 
 ## 🛡️ License
 
-LinkFree is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+30-days-of-Typescript is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💪 Thanks to all Contributors
 

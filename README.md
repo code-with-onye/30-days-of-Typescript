@@ -23,7 +23,7 @@
 ## Contribute
 
 I think that learning together and sharing our knowledge with others is an effective way to learn new things.
-kindly [![Contribute]](https://github.com/code-with-onye/30-days-of-Typescript/blob/main/CONTRIBUTING.md)
+kindly [Contribute](https://github.com/code-with-onye/30-days-of-Typescript/blob/main/CONTRIBUTING.md)
 
 ## 🛡️ License
 

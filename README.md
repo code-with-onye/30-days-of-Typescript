@@ -1,4 +1,4 @@
-# 30 Days of Typescript h
+# 30 Days of Typescript 
 
 ![Typescript](https://user-images.githubusercontent.com/85189857/174459576-d676e9a4-e50f-4f00-94fd-999d5b702df0.png)
 

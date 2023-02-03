@@ -3,7 +3,7 @@
 # Lets learn Typescript Together
 I think that learning together and sharing our knowledge with others is an effective way to learn new things.
 
-## 💥 Ways to Contribute
+## 💥 Ways to 
  - Document what you newly learn 
  - Code Examples
  - Code Testing

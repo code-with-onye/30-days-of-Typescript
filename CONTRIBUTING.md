@@ -1,5 +1,5 @@
 
-# Lets learn Typescript Together
+# Lets learn Typescript Togethers
 I think that learning together and sharing our knowledge with others is an effective way to learn new things.
 
 ## 💥 Ways to 

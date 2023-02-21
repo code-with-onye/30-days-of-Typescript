@@ -244,7 +244,6 @@ Math.cos(0);
 Math.cos(60);
 ```
 
-#### Random Number Generator
 
 The JavaScript Math Object has a random() method number generator which generates number from 0 to 0.999999999...
 

@@ -123,7 +123,7 @@ git push origin YourBranchName
 
 ---
 
-## 💥 Issues
+## 💥 Issue
 
 In order to discuss changes, you are welcome to [open an issue](https://github.com/code-with-onye/30-days-of-Typescript/issues/new/choose) about what you would like to contribute. Enhancements are always encouraged and appreciated.
 

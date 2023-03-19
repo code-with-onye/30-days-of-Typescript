@@ -17,7 +17,7 @@
 | 11    | [TypeScript Modules](./11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md) |
 | 12    |         [Node.js Typescript](./12_Day_Regular_expressions/12_day_regular_expressions.md)         |
 
-🧡🧡🧡 HAPPY CODIN🧡🧡🧡
+🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 ---
 ## Contribute

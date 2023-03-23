@@ -37,4 +37,4 @@ Thanks a lot for spending your time helping 30-days-of-Typescript grow. Thanks a
 
 ## 🙏 Support
 
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+This project needs  ⭐️ from you. Don't forget to leave a star ⭐️

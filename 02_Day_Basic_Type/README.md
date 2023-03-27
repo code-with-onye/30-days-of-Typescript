@@ -17,7 +17,7 @@
 
 [<< Day 1](../readMe.md) | [Day 3 >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
 
-![Thirty Days Of JavaScript](../images/banners/day_1_2.png)
+![Thirty Days Of Typescript](../images/banners/day_1_2.png)
 
 - [📔 Day 2](#-day-2)
   - [Data Types](#data-types)

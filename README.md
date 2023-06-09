@@ -2,7 +2,7 @@
 
 ![Typescript](https://user-images.githubusercontent.com/85189857/174459576-d676e9a4-e50f-4f00-94fd-999d5b702df0.png)
 
-| # Day |                                              Topics                                              |
+| # Day |                                              Topics                                            |
 | ----- | :----------------------------------------------------------------------------------------------: |
 | 01    |                                  [Getting Started](./README.md)                                  |
 | 02    |                     [Basic Types](./02_Day_Basic_Type/README.md)                      |
